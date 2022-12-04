@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 32804ab5833dbc3449bd7eb6ddb92350, type: 3}
+  m_Name: CharReferences
+  m_EditorClassIdentifier: Assembly-CSharp::CharTextureInfo
+  RefPool:
+  - charName: Punk
+    mugshot: {fileID: 2800000, guid: fb784aa300422cd45a20cdfa9f41ef44, type: 3}
+  - charName: Swimmer
+    mugshot: {fileID: 2800000, guid: 188a73cde1b8dd74c84d32a804b31f20, type: 3}
+  - charName: Clown
+    mugshot: {fileID: 2800000, guid: c2ebb9df97e8c4b4eaccbe4dccd2353c, type: 3}
+  - charName: Devil
+    mugshot: {fileID: 2800000, guid: e78c328ba85fa9049a8ac658f7eb39f9, type: 3}
