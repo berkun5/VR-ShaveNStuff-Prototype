@@ -9,7 +9,8 @@
 <p>
 The project is tested and created using <b>Valve Index VR headset</b>. Input system may not be compatible with other headsets.
 
-<b>Development Hours: ~14h.</b>
+<b>Development Hours:</b> ~14h.<br>
+<b>Unity Version:</b> 2021.3.0f1
 </p>
   
 <h4>
