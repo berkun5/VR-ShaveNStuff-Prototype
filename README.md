@@ -9,7 +9,16 @@
    
 <h4>
     <a href="https://www.youtube.com/watch?v=6gKvH2F5qHA">Demo Video</a>
-  <span> · · ·</span>
+  <span> </span>
     <a href="https://we.tl/t-RhodUq98d1">Download link for PC Build</a>
   </h4>
+</div>
+
+<div align="left"> 
+<!-- Features -->
+### :dart: Used Assets
+
+- Feature 1
+- Feature 2
+- Feature 3
 </div>
