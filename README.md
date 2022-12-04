@@ -23,7 +23,7 @@ The project is tested and created using <b>Valve Index VR headset</b>. Input sys
   Goal: Make the character hair as like in the given referencer pictures.
   
   - Use different paint sprays to paint the character hair & whiteboard.
-  - Use "Magic Hair" tool to sculpt hair.
+  - Use "Magic Grow" tool to sculpt hair.
   - Use razer to cut hair.
   - Rotate and move chair.
   
@@ -31,5 +31,6 @@ The project is tested and created using <b>Valve Index VR headset</b>. Input sys
 🧰Used Assets:
 - Steam VR
 - Paintin3d
+- CFXR Particle Shader
   
 </div>

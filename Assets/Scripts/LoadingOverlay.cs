@@ -9,12 +9,8 @@ public class LoadingOverlay : MonoBehaviour
         ReverseNormals();
     }
 
-
     public void ReverseNormals()
     {
-        // Renders interior of the overlay instead of exterior.
-        // Included for ease-of-use. 
-        // Public so you can use it, too.
         MeshFilter filter = this.gameObject.GetComponent(typeof(MeshFilter)) as MeshFilter;
         if (filter != null)
         {
