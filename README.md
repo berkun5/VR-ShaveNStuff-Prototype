@@ -7,7 +7,9 @@
   
 <!-- Badges -->
 <p>
-The project is tested and created using <b>Valve Index VR headset</b>. Input system may not be compatible with other headsets. 
+The project is tested and created using <b>Valve Index VR headset</b>. Input system may not be compatible with other headsets.
+
+<b>Development Hours: ~14h.</b>
 </p>
   
 <h4>
@@ -19,7 +21,8 @@ The project is tested and created using <b>Valve Index VR headset</b>. Input sys
 
 <div align="left"> 
 <!-- Features -->
-🎯Overview:
+🎯Rundown:
+
   Goal: Make the character hair as like in the given referencer pictures.
   
   - Use different paint sprays to paint the character hair & whiteboard.
@@ -29,6 +32,7 @@ The project is tested and created using <b>Valve Index VR headset</b>. Input sys
   
   
 🧰Used Assets:
+- Synty Studios, Polygon office pack
 - Steam VR
 - Paintin3d
 - CFXR Particle Shader
